@@ -1,0 +1,2 @@
+# ExtendTextView
+自定义或者扩展Android的TextView
